@@ -1,2 +1,2 @@
 # github_profiles
-A widget built to search for Github profiles built using JavaScript that uses the Github API to get data
+An app built using vanilla JavaScript that that uses the Github API to search for specific Github profiles. 
